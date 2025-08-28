@@ -1,1 +1,1 @@
-# 100-hours-of-code
+# 100-days-of-code
